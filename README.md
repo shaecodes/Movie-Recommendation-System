@@ -58,5 +58,5 @@ To run the movie recommendation system, follow these steps:
 
 - Clone the repository or download the project files.
 - Install the required dependencies by running pip install -r requirements.txt in your terminal.
-- Run the Streamlit app using the command streamlit run app.py.
+- Run the Streamlit app using the command streamlit run movie_recommend.py.
 - The app will open in your default web browser, where you can interact with the movie recommendation system.

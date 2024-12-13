@@ -52,3 +52,11 @@ The similarity between movies is calculated using the **Cosine Similarity** metr
 ## Streamlit
 
 The movie recommendation system is built with **Streamlit**, a Python framework that allows for the creation of interactive web applications with minimal code. Streamlit makes it easy to visualize data and deploy machine learning models for users to interact with. In this project, Streamlit is used to create an intuitive interface where users can input movie preferences and receive personalized recommendations.
+
+## How to Run this Movie Recommendation System
+To run the movie recommendation system, follow these steps:
+
+- Clone the repository or download the project files.
+- Install the required dependencies by running pip install -r requirements.txt in your terminal.
+- Run the Streamlit app using the command streamlit run app.py.
+- The app will open in your default web browser, where you can interact with the movie recommendation system.
